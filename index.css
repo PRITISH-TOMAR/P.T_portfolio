@@ -16,6 +16,7 @@ body{
      /* .................................. */
     
      /* width: 100%; */
+     /* width: 100vw */
      
  }
  .wel{
@@ -38,7 +39,7 @@ body{
 .li a{
     text-decoration: none;
     color: white;
-    font-size: 2.3vw;
+    font-size: 2.2vw;
 }
  #nav{
     border: 1px solid lightblue;
@@ -62,6 +63,7 @@ body{
     
     
  }
+ 
  .li:hover{
    border-color:blue;
 
@@ -81,7 +83,7 @@ body{
     /* border: 2px solid blue; */
     display: flex;
     flex-direction: row;
-    height: 82vh;
+    /* height: 82vh; */
  }
  #left{
      display: flex;
@@ -94,7 +96,7 @@ body{
     #left{
      /* border: 1px solid yellow; */
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
  }
 
  #img{
@@ -143,10 +145,16 @@ border-radius:0.2rem;
     left: 8rem;
     
 }
+#img{
 
+margin-top: 6%;
+    width: 71%;
+    height: 252px;
+    border: 0.2rem solid rgb(255, 81, 81);
+    border-radius: 0.2rem;
 
-
-
+}
+/* ................... */
 
    
  
