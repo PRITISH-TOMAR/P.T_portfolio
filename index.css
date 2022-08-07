@@ -12,7 +12,7 @@ body {
     display: inline-block;
     align-items: left;
     padding: 7px 45px;
-    border-left: 1px solid  rgb(237, 248, 255);
+    border-left: 1px solid  rgb(237, 248, 255);;
     border-right: 1px solid rgb(251, 254, 255);
     margin: 10px -3px;
     font-size: 1.8rem;
